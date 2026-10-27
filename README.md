@@ -19,6 +19,8 @@ in Python and AWS.
 
 → Python Backend Mastery
 
+→ Java Enterprise Practices
+
 
 ## Tech Stack
 Java | TypeScript | JavaScript | C# | C/C++
