@@ -1,9 +1,5 @@
 # Hi, I'm Justin 👋
 
-Graduating IT students who ships real products to real users.
-Currently building toward backend systems 
-in Python and AWS.
-
 ## What I've Shipped
 
 → **UBian LifeStar** — VR mobile game deployed 
@@ -29,7 +25,7 @@ Java | TypeScript | JavaScript | C# | C/C++
 | AppSheet | Git | Arduino | Adobe Creative Suite
 
 ## Currently Learning
-Python | FastAPI | AWS
+Python | FastAPI | Java
 
 ## Background
 → BS Information Technology — University of 
