@@ -11,12 +11,15 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/just-in-sync?style=flat-square&label=followers&labelColor=0d1117&color=d1d3c4&logo=github&logoColor=d1d3c4" />
 </picture>
 
-[<picture>
+</div>
 
+<div align="center">
+<a href="mailto:justinaleta.dev@gmail.com">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CONTACT-EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=d1d3c4&labelColor=d1d3c4" />
   <img alt="Email" src="https://img.shields.io/badge/CONTACT-EMAIL-d1d3c4?style=flat-square&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
-</picture>](mailto:justinaleta.dev@gmail.com)
-
+</picture>
+</a>
 </div>
 
 ## About Me
@@ -25,16 +28,16 @@
 {const currentJobText = "Application Development Support Assistant";
 
 const developerProfile = {
-  location: "Philippines",
-  current_job: currentJobText,
-  company: "Bedoo PH",
-  technical_background: {
-    first_job: currentJobText,
-    internship: "Developer Intern - Google AppSheet & AppScript"
+  "location": "Philippines",
+  "current_job": currentJobText,
+  "company": "Bedoo PH",
+  "technical_background": {
+    "first_job": currentJobText,
+    "internship": "Developer Intern - Google AppSheet & AppScript"
   },
-  currently_learning: {
+  "currently_learning": {
     "back-end": "Java (Springboot) - Python (FastAPI)",
-    AI: "ML & Agent Development"
+    "AI": "ML & Agent Development"
   },
   open_to_contribute: {
     "Topic 1": "AI & Data Science Projects",
