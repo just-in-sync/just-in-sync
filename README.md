@@ -24,26 +24,27 @@
 
 ```javascript
 {
-const currentJobText = "Application Development Support Assistant";
+  const currentJobText = "Application Development Support Assistant";
 
-const developerProfile = {
-  location: "Philippines",
-  current_job: currentJobText,
-  company: "Bedoo PH",
-  technical_background: {
-    "first_job": currentJobText,
-    "internship": "Developer Intern - Google AppSheet & AppScript"
-  },
-  currently_learning: {
-    "back-end": "Java (Springboot) - Python (FastAPI)",
-    "AI": "ML & Agent Development"
-  },
-  open_to_contribute: {
-    "Topic 1": "AI & Data Science Projects",
-    "Topic 2": "Game Development",
-    "Topic 3": "Web & Mobile Development"
-  }
-};
+  const developerProfile = {
+    location: "Philippines",
+    current_job: currentJobText,
+    company: "Bedoo PH",
+    technical_background: {
+      first_job: currentJobText,
+      internship: "Developer Intern - Google AppSheet & AppScript"
+    },
+    currently_learning: {
+      back-end: "Java (Springboot) - Python (FastAPI)",
+      AI: "ML & Agent Development"
+    },
+    open_to_contribute: {
+      "Topic 1": "AI & Data Science Projects",
+      "Topic 2": "Game Development",
+      "Topic 3": "Web & Mobile Development"
+    }
+  };
+}
 ```
 
 ## Active Tech Stack
