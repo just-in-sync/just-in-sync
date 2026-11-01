@@ -35,7 +35,7 @@
       internship: "Developer Intern - Google AppSheet & AppScript"
     },
     currently_learning: {
-      back-end: "Java (Springboot) - Python (FastAPI)",
+      "back-end": "Java (Springboot) - Python (FastAPI)",
       AI: "ML & Agent Development"
     },
     open_to_contribute: {
