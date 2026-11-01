@@ -22,7 +22,7 @@
 
 ## About Me
 
-```json
+```javascript
 {
 const currentJobText = "Application Development Support Assistant";
 
@@ -43,7 +43,7 @@ const developerProfile = {
     "Topic 2": "Game Development",
     "Topic 3": "Web & Mobile Development"
   }
-}
+};
 ```
 
 ## Active Tech Stack
