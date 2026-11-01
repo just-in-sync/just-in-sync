@@ -11,21 +11,20 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/just-in-sync?style=flat-square&label=followers&labelColor=0d1117&color=d1d3c4&logo=github&logoColor=d1d3c4" />
 </picture>
 
-</div>
-
-<div align="center">
 <a href="mailto:justinaleta.dev@gmail.com">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CONTACT-EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=d1d3c4&labelColor=d1d3c4" />
   <img alt="Email" src="https://img.shields.io/badge/CONTACT-EMAIL-d1d3c4?style=flat-square&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
 </picture>
 </a>
+
 </div>
 
 ## About Me
 
 ```json
-{const currentJobText = "Application Development Support Assistant";
+{
+const currentJobText = "Application Development Support Assistant";
 
 const developerProfile = {
   "location": "Philippines",
@@ -39,12 +38,12 @@ const developerProfile = {
     "back-end": "Java (Springboot) - Python (FastAPI)",
     "AI": "ML & Agent Development"
   },
-  open_to_contribute: {
+  "open_to_contribute": {
     "Topic 1": "AI & Data Science Projects",
     "Topic 2": "Game Development",
     "Topic 3": "Web & Mobile Development"
   }
-};
+}
 ```
 
 ## Active Tech Stack
