@@ -68,6 +68,7 @@
 ![openCode](https://img.shields.io/badge/openCode-d1d3c4?style=for-the-badge&logo=opencode&logoColor=0d1117)
 ![Copilot](https://img.shields.io/badge/Copilot-d1d3c4?style=for-the-badge&logo=githubcopilot&logoColor=0d1117)
 ![Next.js](https://img.shields.io/badge/Next.js-d1d3c4?style=for-the-badge&logo=nextdotjs&logoColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-d1d3c4?style=for-the-badge&logo=docker&logoColor=0d1117)
 
 </div>
 
