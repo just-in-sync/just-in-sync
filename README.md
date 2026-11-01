@@ -56,7 +56,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-d1d3c4?style=for-the-badge&logo=javascript&logoColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d1d3c4?style=for-the-badge&logo=typescript&logoColor=0d1117)
 ![Java](https://img.shields.io/badge/Java-d1d3c4?style=for-the-badge&logo=openjdk&logoColor=0d1117)
-![Python](https://img.shields.io/badge/Python-d1d3c4?style=for-the-badge&logo=python&logoColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-d1d3c4?style=for-the-badge&logo=git&logoColor=0d1117)
 ![Bash](https://img.shields.io/badge/Terminal-d1d3c4?style=for-the-badge&logo=gnubash&logoColor=0d1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-d1d3c4?style=for-the-badge&logo=tailwindcss&logoColor=0d1117)
@@ -67,8 +66,6 @@
 ![Claude](https://img.shields.io/badge/Claude-d1d3c4?style=for-the-badge&logo=claude&logoColor=0d1117)
 ![Gemini](https://img.shields.io/badge/Gemini-d1d3c4?style=for-the-badge&logo=googlegemini&logoColor=0d1117)
 ![openCode](https://img.shields.io/badge/openCode-d1d3c4?style=for-the-badge&logo=opencode&logoColor=0d1117)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-d1d3c4?style=for-the-badge&logo=googleappsscript&logoColor=0d1117)
-![AppSheet](https://img.shields.io/badge/AppSheet-d1d3c4?style=for-the-badge&logo=appsheet&logoColor=0d1117)
 ![Copilot](https://img.shields.io/badge/Copilot-d1d3c4?style=for-the-badge&logo=githubcopilot&logoColor=0d1117)
 ![Next.js](https://img.shields.io/badge/Next.js-d1d3c4?style=for-the-badge&logo=nextdotjs&logoColor=0d1117)
 
@@ -78,6 +75,9 @@
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-d1d3c4?style=for-the-badge&logo=python&logoColor=0d1117)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-d1d3c4?style=for-the-badge&logo=googleappsscript&logoColor=0d1117)
+![AppSheet](https://img.shields.io/badge/AppSheet-d1d3c4?style=for-the-badge&logo=appsheet&logoColor=0d1117)
 ![AWS](https://img.shields.io/badge/AWS-d1d3c4?style=for-the-badge&logo=amazonaws&logoColor=0d1117)
 ![Firebase](https://img.shields.io/badge/Firebase-d1d3c4?style=for-the-badge&logo=firebase&logoColor=0d1117)
 ![MySQL](https://img.shields.io/badge/MySQL-d1d3c4?style=for-the-badge&logo=mysql&logoColor=0d1117)
