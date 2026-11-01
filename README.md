@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=checkered&color=d1d3c4&height=300&section=header&textBg=true&text=capsule%20render&fontSize=90&animation=twinkling)Hi
+
 # Hi, I'm Justin 👋
 
 ## What I've Shipped
